@@ -1,13 +1,10 @@
 # VirtualizeDN-TD
 
 ## Explanation
-**VirtualizeDN** - 0.8mm FFC Connector to Board-to-Board/Mezzanine Connector
--Solder one connector to the lens, and the other to the board. Then simply plug-in the board.
-
-**VirtualizeTD** - 0.8mm FFC Connector to 0.5mm pads
+**VirtualizeTD** - 0.8mm FFC Connector to 0.6mm pads
 -Traditional blind soldering method.
 
-_NOTE: The json files are EASYEDA exports._
+_NOTE: The json file(s) are EASYEDA exports._
 
-## Acknowledgements
-[Virtual Ribbon](https://segasonicfan.wixsite.com/retro/virtual-ribbon) - For having 1000% markup and muddying the waters on actual problems/repair methods.
+![alt text](./assets/vtdv2-3dboard.png "3D View")
+![alt text](./assets/vtdv2-board.png "PCB View")
