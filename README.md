@@ -1,4 +1,4 @@
-# VirtualizeDN-TD
+# VirtualizeTD
 
 ## Explanation
 **VirtualizeTD** - 0.8mm FFC Connector to 0.6mm pads
